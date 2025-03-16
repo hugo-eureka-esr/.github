@@ -11,7 +11,7 @@ The goal is first and foremost to keep the Eureka theme available and compatible
 Contributions are welcomed! Think of:
 
 * Bug fixes
-* Typo fixes
-* Improved documentation
+* Fixing typos
+* Improving documentation
 
-**New features are also welcome**, but please keep the goal mentione above in mind.
+**New features are also welcome**, but please keep the goal mentioned above in mind.
