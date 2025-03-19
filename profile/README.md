@@ -1,9 +1,9 @@
-# The Hugo Eureka ESR Project
+# The Eureka ESR Project
 
 > [!IMPORTANT]  
 > The theme is not ready yet. View its progress here: [Preparing release roadmap](https://github.com/orgs/hugo-eureka-esr/projects/1)
 
-Hugo Eureka is a theme originally created by WANG Chucheng, but appears to have been abandoned. By forking the theme and its related projects, we aim to bring this beautiful theme back to life.
+Eureka is a theme originally created by WANG Chucheng, but appears to have been abandoned. By forking the theme and its related projects, we aim to bring this beautiful theme back to life.
 
 ## Goal of this organization
 
