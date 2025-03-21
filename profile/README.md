@@ -1,6 +1,6 @@
 # The Eureka ESR Project
 
-Eureka is a theme originally created by WANG Chucheng, but appears to have been abandoned. By forking the theme and its related projects, we aim to bring this beautiful theme back to life.
+Eureka is a [Hugo](https://gohugo.io/) theme originally created by Wang Chucheng, but appears to have been abandoned. By forking the theme and its related projects, we aim to bring this beautiful theme back to life.
 
 ## Goal of this organization
 
